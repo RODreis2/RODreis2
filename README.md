@@ -2,7 +2,7 @@
 
 -->
 - 🔭 I’m currently working on backend
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning Java
 - 🐱‍💻 My contact discord: rodreis#3818
   
 -->
