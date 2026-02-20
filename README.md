@@ -1,9 +1,22 @@
-## Hi there
+## Kelvyn
 
-- I am currently working on backend and learning Springboot framework 
+Backend Engineering • Systems • Infrastructure
 
-## My main stack
+I build reliable backend systems and study software architecture, distributed systems, and performance.
 
-- Java
-- Python
-- Golang
+## Stack
+
+Java • Spring Boot • Python • Golang
+
+## Focus
+
+Backend architecture
+Microservices
+APIs and data modeling
+Scalable systems
+
+Current Work
+
+Developing backend services with Spring Boot and exploring containerized environments.
+## Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvyn-kau%C3%A3-710bb9343)
