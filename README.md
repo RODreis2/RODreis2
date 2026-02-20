@@ -15,7 +15,7 @@ Microservices
 APIs and data modeling
 Scalable systems
 
-Current Work
+## Current Work
 
 Developing backend services with Spring Boot and exploring containerized environments.
 ## Links
